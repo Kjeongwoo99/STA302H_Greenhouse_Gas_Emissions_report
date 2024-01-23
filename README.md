@@ -2,9 +2,9 @@
 
 ## Overview
 
-This repo provides students with a foundation for their own projects associated with *Telling Stories with Data*. You do not need every aspect for every paper and you should delete aspects that you do not need.
+The primary goal of this assignment is to analyze and understand the patterns, trends and implications of the historical data of the greenhouse gas emissions in the world from 1990 to 2020. This analysis sets the road maps for both developed and developing countries to meet the level of GHG emissions targets to meet the Paris Agreement in which nations have agreed to limit global warming below 2, preferably 1.5 degrees Celsius compared to pre-industrial levels. 
 
-To use this folder, click the green "Code" button", then "Download ZIP". Move the downloaded folder to where you want to work on your own computer, and then modify it to suit.
+No LLMs were used in this paper. 
 
 ## File Structure
 
