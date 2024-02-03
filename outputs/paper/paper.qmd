@@ -2,7 +2,7 @@
 title: "Greenhouse Gas Emissions report by country from 1990 to 2020"
 author: 
   Jeongwoo Kim 
-thanks: "Code and data supporting this analysis available at: https://github.com/Kjeongwoo99/STA302H_Paper1"
+thanks: "Code and data supporting this analysis available at: https://github.com/Kjeongwoo99/STA302H_Greenhouse_Gas_Emissions_report"
 date: today
 date-format: long
 abstract: The primary goal of this assignment is to analyze and understand the patterns, trends and implications of the historical data of the Greenhouse Gas (GHG) emissions in the world from 1990 to 2020. GHG emissions are threatening the ecosystem of the Earth and it requires collaborate efforts at national level to reduce these emissions. I have identified the nations that emit significant amount of GHG and have created a graph to show the historical trend of GHG emissions by countries. This paper aims to raise concern for the high level of GHG emissions worldwide and call for an action to reduce this. 
